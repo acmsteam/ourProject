@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Elections</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">loginActivity</string>
+    <string name="login">లాగిన్</string>
+    <string name="reg">నమోదు</string>
+    <string name="hello">హలో</string>
+    <string-array name="voter_cadidate">
+        <item>ఓటరు</item>
+        <item>అభ్యర్థి</item>
+    </string-array>
+    <string name="enter_adhar">అధార్ కార్డు సంఖ్య</string>
+    <string name="password">పాస్వర్డ్</string>
+    <string name="not_reg">నమోదు చేసుకున్న ఓటరు కాదు?</string>
+    <string name="verify">నిర్ధారించండి</string>
+</resources>
