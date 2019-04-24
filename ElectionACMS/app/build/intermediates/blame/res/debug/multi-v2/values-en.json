@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\AndroidStudioProjects\\ElectionACMS\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
+            "map": [
+                {
+                    "source": "C:\\AndroidStudioProjects\\ElectionACMS\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "from": {
+                        "startLines": "6,2,10,5,3,12,11,4",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "243,57,367,201,108,472,424,155",
+                        "endLines": "9,2,10,5,3,12,11,4",
+                        "endColumns": "19,49,55,40,45,56,46,44",
+                        "endOffsets": "361,102,418,237,149,524,466,195"
+                    },
+                    "to": {
+                        "startLines": "2,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,175,225,281,322,368,425,472",
+                        "endLines": "5,6,7,8,9,10,11,12",
+                        "endColumns": "19,49,55,40,45,56,46,44",
+                        "endOffsets": "170,220,276,317,363,420,467,512"
+                    }
+                }
+            ]
+        }
+    ]
+}
